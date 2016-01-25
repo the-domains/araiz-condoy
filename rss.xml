@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Araiz Condoy]]></title>
+        <description><![CDATA[Araiz Condoy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 19:49:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>We are a full-service video production boutique located in San Miguel de Allende, MX. We specialize in videography for Tourism & Leisure, Real Estate, Weddings & Special Events, Festivals, and Documentaries. Serving Puerto Vallarta, San Miguel de Allende, Queretaro, and Mexico City, MX.</p><img src="http://static1.squarespace.com/static/525f6444e4b0b2064e155ad5/t/525ff2bfe4b03c6d7aae9f39/1447287212957/?format=1000w"></article>]]></description>
+            <link>http://www.araizcondoy.com/</link>
+            <guid isPermaLink="false">269fb7d8-b69b-4366-8de2-a16a3e056502</guid>
+            <pubDate>Mon, 25 Jan 2016 19:49:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
