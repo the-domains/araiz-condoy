@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T20:39:30.807Z'
-dateModified: '2016-01-27T20:38:11.197Z'
+datePublished: '2016-01-27T20:44:41.149Z'
+dateModified: '2016-01-27T20:44:06.281Z'
 title: "Web-site Design Services:\_"
 author: []
 sourcePath: _posts/2016-01-27-web-site-design-services.md
@@ -22,7 +22,7 @@ url: web-site-design-services/index.html
 _type: Article
 
 ---
-## Web-site Design Services: 
+# Web-site Design Services: 
 
 * Custom Photography 
 * Search Engine Optimization (SEO) 
