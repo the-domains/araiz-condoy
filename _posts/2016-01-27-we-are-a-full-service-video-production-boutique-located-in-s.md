@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T04:05:48.372Z'
+datePublished: '2016-01-28T04:05:48.461Z'
 dateModified: '2016-01-28T04:05:38.747Z'
 title: 'We are a full-service video production boutique located in San Miguel de Allende, MX. We specialize in videography for Tourism & Leisure, Real Estate, Weddings & Special Events, Festivals, and Documentaries. Serving Puerto Vallarta, San Miguel de Allende, Queretaro, and Mexico City, MX.'
 author: []
