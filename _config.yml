@@ -1,7 +1,7 @@
 name: Araiz Condoy
 favicon: null
 layout_spectrum: 0.99822
-typography_spectrum: 0.55738
+typography_spectrum: 0.85344
 title: Araiz Condoy Productions
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#d2dbbe'
     - '#fcfff6'
     - '#193340'
-  brandStrength: 0.3125
+  brandStrength: 0.125
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
